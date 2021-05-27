@@ -1,0 +1,26 @@
+{"en":
+    {
+        "Tienda" : "Shop",
+        "Español": "Spanish",
+        "Inglés": "English",
+        "Valenciano": "Valencian",
+        "Inicio": "Home",
+        "CRUD": "CRUD",
+        "LISTA DE PRODUCTOS" : "Products List",
+        "Codigo producto" : "Product code",
+        "Nombre" : "Name",
+        "Precio" : "Price",
+        "Talla" : "Size",
+        "Color" : "Colour",
+        "Descripcion" : "Description",
+        "Volver" : "Return",
+        "Acceptar" : "Accept",
+        "Cancelar" : "Cancel",
+        "Leer" : "Read",
+        "Modificar" : "Update",
+        "Eliminar" : "Delete",
+        "Eliminar todo" : "Delete All",
+        "Añadir producto" : "Add product",
+        "Accion" : "Action"
+    }
+}

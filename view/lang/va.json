@@ -1,0 +1,26 @@
+{"va":
+    {
+        "Tienda" : "Tenda",
+        "Español": "Español",
+        "Inglés": "Inglés",
+        "Valenciano": "Valenciano",
+        "Inicio": "Inici",
+        "CRUD": "CRUD",
+        "LISTA DE PRODUCTOS" : "LLISTA DE PRODUCTES",
+        "Codigo producto" : "Codic Producte",
+        "Nombre" : "Nom",
+        "Precio" : "Preu",
+        "Talla" : "Talla",
+        "Color" : "Color",
+        "Descripcion" : "Descripcio",
+        "Volver" : "Volver",
+        "Acceptar" : "Acceptar",
+        "Cancelar" : "Cancel.lar",
+        "Leer" : "Llegir",
+        "Modificar" : "Actualitzar",
+        "Eliminar" : "Eliminar",
+        "Eliminar todo" : "Eliminar tol",
+        "Añadir producto" : "Afegir producte",
+        "Accion" : "Accio"
+    }
+}
